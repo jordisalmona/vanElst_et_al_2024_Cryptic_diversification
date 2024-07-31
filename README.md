@@ -1,6 +1,6 @@
 # Integrative taxonomy clarifies the evolution of a cryptic primate clade
 
-This repository holds scripts for the following analyses conducted for the publication van Elst et al. (2024), *Nat. Ecol. Evol.*:
+This repository holds scripts for the following analyses conducted as part of the publication van Elst et al. (2024), *Nat. Ecol. Evol.*:
 - Genotyping
 - Phylogenetic inference
 - Species delimitation
