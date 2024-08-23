@@ -1,3 +1,5 @@
+### Script by Jordi Salmona
+
 ##### load libraries ####
 library(sp)
 library(usedist)

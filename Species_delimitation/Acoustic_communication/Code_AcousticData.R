@@ -2,7 +2,7 @@
 #Script for Acoustic data
 #written by Marina Scheumann, 19.12.2022
 #R-version: 4.2.2; Rstudio- version:2022.07.1 Build 554
-#published in von Elst et al. (2024): An integrative and generalizable approach to elucidate cryptic diversifications sheds light on mouse lemur taxonomy and evolution
+#published in van Elst et al. (2024): Integrative taxonomy clarifies the evolution of a cryptic primate clade
 #############################################
 
 #########################

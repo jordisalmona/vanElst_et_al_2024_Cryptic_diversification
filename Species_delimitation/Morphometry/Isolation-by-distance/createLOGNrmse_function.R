@@ -1,3 +1,4 @@
+### Script by Jordi Salmona
 
 ####EXAMPLE of "list_pairs" for a given SPECIES PAIR comparison "Mdan-Mdan" "Mrav-Mrav" "Mdan-Mrav"####
 

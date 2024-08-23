@@ -1,3 +1,5 @@
+### Script by Dominik Schuessler
+
 # In this script, morphological overlaps in multidimensional space are calculated, 
 # based on four commonly shared variables across the whole genus.
 # Taxa are abbreviated with a four letter code, based in the first four letters 

@@ -1,3 +1,5 @@
+### Script by Dominik Schuessler
+
 # Calculation of species-specific ENMs with individual fine tuning of parameters.
 # This is followed by the calculation of niche overlap.
 # Note: ENMtools and accordingly this script heavily depends on the "raster" package;
