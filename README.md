@@ -15,7 +15,7 @@ Input and output files can be found in the [Dryad digital repository](https://do
 
 `./Reference_mapping` contains scripts to align cleaned reads against the *Microcebus murinus* reference genome (Mmur 3.0; [Larsen et al. (2017), *BMC Biol.*](https://doi.org/10.1186/s12915-017-0439-6) with [BWA v0.7.17-r1198-dirty](https://github.com/lh3/bwa) and to filter BAM files with [SAMtools v1.11](http://www.htslib.org/).
 
-`./Genotype_calling` contains scripts to call genotypes with [GATK v4.1.9.0](https://gatk.broadinstitute.org/hc/en-us) and apply various filters to VCF files with [VCFtools v0.1.17](https://vcftools.github.io/index.html) and [GATK v3.8.1/v4.1.9.0](https://gatk.broadinstitute.org/hc/en-us).
+`./Genotype_calling` contains scripts to call genotypes with [GATK v4.1.9.0](https://gatk.broadinstitute.org/hc/en-us) and apply various filters to VCF files with [VCFtools v0.1.17](https://vcftools.github.io/index.html), [Bcftools v1.11](https://samtools.github.io/bcftools/) and [GATK v3.8.1/v4.1.9.0](https://gatk.broadinstitute.org/hc/en-us).
 
 `./Locus_extraction` contains scripts to convert called genotypes to phased RAD loci following [Poelstra et al. (2021), *Syst. Biol.*](https://doi.org/10.1093/sysbio/syaa053)
 
