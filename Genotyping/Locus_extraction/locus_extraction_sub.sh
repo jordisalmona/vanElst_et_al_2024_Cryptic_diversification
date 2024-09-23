@@ -14,7 +14,7 @@ vcf_dir=$PWORK/$prefix/gatk
 # These are the VCF files with all individuals
 vcf_altreff_full=$vcf_dir/allScaffolds.annot.SNP.vcf # Unfiltered SNP file
 vcf_filt_mask_full=$vcf_dir/allScaffolds.annot.SNP.minInd.DP.mac.GATKfilt-hard.vcf # Filtered SNP file
-# These are the expected VCF files with selected individuals
+# These will be the expected VCF files with selected individuals
 vcf_altref=$vcf_dir/allScaffolds.annot.SNP.$set_id.vcf 
 vcf_filt_mask=$vcf_dir/allScaffolds.annot.SNP.minInd.DP.mac.GATKfilt-hard.$set_id.vcf
 
