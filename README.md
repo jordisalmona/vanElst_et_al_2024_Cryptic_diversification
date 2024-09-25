@@ -19,7 +19,7 @@ Input and output files can be found in the [Dryad digital repository](https://do
 
 `./Locus_extraction` contains scripts to convert called genotypes to phased RAD loci following [Poelstra et al. (2021), *Syst. Biol.*](https://doi.org/10.1093/sysbio/syaa053)
 
-`./Genotype_likelihood_estimation` contains scripts to infer genotype likelihoods with [ANGSD v0.92](http://www.popgen.dk/angsd/index.php/ANGSD).
+`./Genotype_likelihoods` contains scripts to infer genotype likelihoods for candidate species subsets with [ANGSD v0.92](http://www.popgen.dk/angsd/index.php/ANGSD).
 
 ### Phylogenetic inference
 `./phylogenetic_inference` contains scripts to infer maximum likelihood and quartet-based phylogenies with [IQ-TREE v2.2.0](http://www.iqtree.org/#download) and [SVDquartets of PAUP* v4.0a](https://paup.phylosolutions.com/), respectively.
