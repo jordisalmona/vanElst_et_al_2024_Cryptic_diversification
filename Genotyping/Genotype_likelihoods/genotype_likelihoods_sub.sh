@@ -16,9 +16,10 @@ nt=80
 ## Assign sample sets
 sample_sets="Marn_Msp1 Mber_Mmyo_Mruf Mbon_Mdan_Mrav Mbor_Msim Mgan_Mman_Mmur Mger_Mjol_Mmaro Mjon_Mmac Mleh_Mmit Mmam_Mmar_Msam"
 
-## Run ANGSD pipeline for each sample st
+## Run ANGSD pipeline for each sample set
 for set_id in $sample_sets
 do
+echo "... processing set $sample_set"
 
 angsd_dir=$PWORK/$prefix/angsd/$set_id
 mkdir -p $angsd_dir/logFiles
