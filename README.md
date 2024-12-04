@@ -1,6 +1,13 @@
 # Integrative taxonomy clarifies the evolution of a cryptic primate clade
 
-This repository holds scripts for the following analyses conducted as part of the publication van Elst, Sgarlata, Schüßler et al. & Salmona (2024), *Nat. Ecol. Evol.* https://www.nature.com/articles/s41559-024-02547-w:
+This repository holds scripts for the following analyses conducted as part of the publication __van Elst, Sgarlata, Schüßler et al. & Salmona__ (2024), *Nat. Ecol. Evol.* https://www.nature.com/articles/s41559-024-02547-w:
+
+Corresponding authors for the code (and the paper):
+Tobias van Elst: tob.velst@posteo.de
+Gabriele M. Sgarlata: gabriele.sgarlata@gmail.com
+Dominik Schüßler: dominik.schuessler@posteo.de
+Jordi Salmona: jordi.salmona@ird.fr
+
 - Genotyping
 - Phylogenetic inference
 - Species delimitation
